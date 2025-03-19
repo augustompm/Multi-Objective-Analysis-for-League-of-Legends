@@ -1,0 +1,3 @@
+2025-03-18 02:15:10,525 - INFO - Carregados 295044 matchIds de match_ids_br1.csv
+2025-03-18 02:15:10,546 - INFO - Encontrados 9054 matchIds únicos após deduplicação
+2025-03-18 02:15:10,554 - INFO - Salvou 9054 matchIds únicos em unique_match_ids_br1.csv
