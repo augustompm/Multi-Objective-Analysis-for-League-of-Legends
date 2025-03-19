@@ -20,7 +20,7 @@ This project applies multi-objective optimization to analyze the trade-off betwe
 - **Run**: ```bash python3 collect-players.py ``` 
 
 ### 2. `collect-match-ids.py` 
-- **Purpose**: Fetches ranked solo/duo match IDs (queue 420) for players from `diamond_players_br1.csv` in S2024 S3 (09/24/2024 - 01/08/2025). 
+- **Purpose**: Fetches ranked solo/duo match IDs (queue 420) for players from `diamond_players_br1.csv` in S2024 (01/10/2024 - 01/08/2025). 
 - **Output**: `match_ids_br1.csv` (match IDs). 
 - **Run**: ```bash python3 collect-match-ids.py ``` 
 
