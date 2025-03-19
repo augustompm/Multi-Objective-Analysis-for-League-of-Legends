@@ -1,6 +1,6 @@
 # Multi-Objective-Analysis-for-League-of-Legends 
 
-This project applies multi-objective optimization to analyze the trade-off between champion diversity and win rate in League of Legends, targeting 1000 Diamond-tier players in the S2024 S3 season. 
+This project applies multi-objective optimization to analyze the trade-off between champion diversity and win rate in League of Legends, targeting 1000 Diamond-tier players in the S2024 S3 season where they played a total of 50670 matches. 
 
 ## Overview The pipeline consists of three Python scripts to collect and process data from the Riot Games API: 
 1. **Collect Players**: Gathers Diamond-tier player data. 
