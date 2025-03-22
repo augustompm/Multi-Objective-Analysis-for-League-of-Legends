@@ -22,8 +22,8 @@ api_key = config["API"]["api_key"]
 watcher = LolWatcher(api_key)
 region = "br1"
 platform = "americas"
-start_time = 1704891600
-end_time = 1715731200    
+start_time = 1727222400
+end_time = 1736294400 
 
 # Função para salvar match IDs
 def save_match_ids(match_ids, output_file="match_ids_br1.csv", mode='w'):

@@ -1,4 +1,61 @@
-2025-03-18 02:24:10,554 - INFO - rate limit changed from 0/0s to 100/120s
-2025-03-18 02:24:10,554 - INFO - rate limit changed from 0/0s to 20/1s
-2025-03-18 02:24:10,554 - INFO - rate limit changed from 0/0s to 50/10s
-2025-03-18 02:24:13,026 - INFO - Total de 1000 jogadores Diamante coletados do Brasil
+2025-03-22 01:20:00,961 - INFO - rate limit changed from 0/0s to 100/120s
+2025-03-22 01:20:00,961 - INFO - rate limit changed from 0/0s to 20/1s
+2025-03-22 01:20:00,961 - INFO - rate limit changed from 0/0s to 50/10s
+2025-03-22 01:20:00,964 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 1
+2025-03-22 01:20:01,313 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 2
+2025-03-22 01:20:01,661 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 3
+2025-03-22 01:20:02,012 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 4
+2025-03-22 01:20:02,344 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 5
+2025-03-22 01:20:02,679 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 6
+2025-03-22 01:20:03,007 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 7
+2025-03-22 01:20:03,363 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 8
+2025-03-22 01:20:03,709 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 9
+2025-03-22 01:20:04,051 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 10
+2025-03-22 01:20:04,409 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 11
+2025-03-22 01:20:04,763 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 12
+2025-03-22 01:20:05,107 - INFO - Coletados 205 jogadores da divisão DIAMOND I, página 13
+2025-03-22 01:20:05,108 - INFO - Total coletado para DIAMOND I: 2500
+2025-03-22 01:20:05,454 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 1
+2025-03-22 01:20:05,825 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 2
+2025-03-22 01:20:06,178 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 3
+2025-03-22 01:20:06,534 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 4
+2025-03-22 01:20:06,867 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 5
+2025-03-22 01:20:07,203 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 6
+2025-03-22 01:20:07,552 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 7
+2025-03-22 01:20:09,282 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 8
+2025-03-22 01:20:09,617 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 9
+2025-03-22 01:20:09,964 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 10
+2025-03-22 01:20:10,304 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 11
+2025-03-22 01:20:10,653 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 12
+2025-03-22 01:20:11,011 - INFO - Coletados 205 jogadores da divisão DIAMOND II, página 13
+2025-03-22 01:20:11,012 - INFO - Total coletado para DIAMOND II: 2500
+2025-03-22 01:20:11,348 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 1
+2025-03-22 01:20:11,690 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 2
+2025-03-22 01:20:12,025 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 3
+2025-03-22 01:20:12,362 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 4
+2025-03-22 01:20:12,714 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 5
+2025-03-22 01:20:13,055 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 6
+2025-03-22 01:20:13,425 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 7
+2025-03-22 01:20:13,771 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 8
+2025-03-22 01:20:14,106 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 9
+2025-03-22 01:20:14,455 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 10
+2025-03-22 01:20:14,791 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 11
+2025-03-22 01:20:15,134 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 12
+2025-03-22 01:20:15,479 - INFO - Coletados 205 jogadores da divisão DIAMOND III, página 13
+2025-03-22 01:20:15,479 - INFO - Total coletado para DIAMOND III: 2500
+2025-03-22 01:20:15,821 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 1
+2025-03-22 01:20:17,582 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 2
+2025-03-22 01:20:17,927 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 3
+2025-03-22 01:20:18,259 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 4
+2025-03-22 01:20:18,597 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 5
+2025-03-22 01:20:18,937 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 6
+2025-03-22 01:20:19,277 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 7
+2025-03-22 01:20:19,610 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 8
+2025-03-22 01:20:19,959 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 9
+2025-03-22 01:20:20,294 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 10
+2025-03-22 01:20:20,693 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 11
+2025-03-22 01:20:21,026 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 12
+2025-03-22 01:20:21,382 - INFO - Coletados 205 jogadores da divisão DIAMOND IV, página 13
+2025-03-22 01:20:21,383 - INFO - Total coletado para DIAMOND IV: 2500
+2025-03-22 01:20:21,383 - INFO - Total de jogadores coletados: 10000
+2025-03-22 01:20:21,425 - INFO - Dados salvos em diamond_players_br1.csv com 10000 jogadores
